@@ -1,5 +1,5 @@
 import turtle
-turtle.width(15)
+turtle.width(5)
 turtle.color("blue")
 turtle.circle(50)
 turtle.penup()
